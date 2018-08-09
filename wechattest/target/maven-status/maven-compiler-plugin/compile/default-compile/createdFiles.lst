@@ -1,0 +1,7 @@
+com\ithuanqging\wechat\service\CoreService.class
+com\ithuanqging\wechat\CoreServlet.class
+com\ithuanqging\wechat\utils\SignUtil.class
+com\ithuanqging\wechat\bean\TextMessage.class
+com\ithuanqging\wechat\utils\MessageUtil$1.class
+com\ithuanqging\wechat\utils\MessageUtil$1$1.class
+com\ithuanqging\wechat\utils\MessageUtil.class
